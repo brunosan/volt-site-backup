@@ -1,5 +1,7 @@
 You can see the local versions of the site here
-
+* [www.voltlille.org](https://brunosan.github.io/volt-site-backup/www.voltlille.org)
+* [www.voltlatvija.org](https://brunosan.github.io/volt-site-backup/www.voltlatvija.org)
+* [www.voltbelgique.org](https://brunosan.github.io/volt-site-backup/www.voltbelgique.org)
 * [www.voltoesterreich.org](https://brunosan.github.io/volt-site-backup/www.voltoesterreich.org)
 * [www.voltbelgie.org](https://brunosan.github.io/volt-site-backup/www.voltbelgie.org)
 * [www.voltbulgaria.org](https://brunosan.github.io/volt-site-backup/www.voltbulgaria.org)
